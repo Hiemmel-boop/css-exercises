@@ -1,1 +1,29 @@
 /* Add CSS Styling */
+
+#ID1{
+    color: rgb(0, 0, 255);
+    background-color: rgb(255, 255, 255);
+    font-size : 36px;
+}
+
+#ID2{
+    color: #000;
+    background-color: #16df0f;
+    font-size: 24px;
+}
+
+.Classe1{
+    color: #000;
+    background-color: #ff69b4;
+}
+
+.Classe2{
+    color: #000;
+    background-color: #ff69b4;
+    font-size: 24px;
+}
+
+.Classe3{
+    color: #000;
+    background-color: #ff69b4;
+}
